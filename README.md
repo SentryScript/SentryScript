@@ -42,16 +42,3 @@ To keep this tool affordable and accessible, this version skips costly Windows d
 * **100% Safe:** SentryScript is completely clean. View the zero-detection **[VirusTotal Report Here]**.
 
 *Disclaimer: This software leverages the open-source `yt-dlp` framework for YouTube integration. It only processes videos with available subtitle files (auto-generated or uploaded) and does not support live streams or restricted content. Continuous access relies entirely on third-party yt-dlp updates.*
-
----
-
-
-## 💎 Upgrade to Premium
-
-Loved the trial? Need to monitor more channels and keywords? SentryScript is built on a "Lifetime Value" philosophy—no monthly recurring extortion fees. 
-
-Upgrade to Standard or Premium to unlock massive limits (up to 60 keywords/channels/videos):
-
-👉 **[Get SentryScript Premium on Whop](https://whop.com/joined/sentryscript)**
-
-*(Bonus: You can earn a 30% commission by recommending the Premium plan using the Affiliate tab on Whop!)*
