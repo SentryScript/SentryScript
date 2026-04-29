@@ -1,9 +1,8 @@
 # SentryScript: Automated YouTube Mention Tracker
 
+<img width="1103" height="670" alt="SentryScript_first-end" src="https://github.com/user-attachments/assets/f91698c1-b21e-4bb4-8ca2-69030bd48699" />
 
-
-
-https://github.com/user-attachments/assets/2b32812c-7bbc-4a6e-86a7-dcc9fb7cea54
+<img width="1103" height="670" alt="SentryScript_second-end" src="https://github.com/user-attachments/assets/5f9d8521-c6dc-4519-bb2e-0cfd890ea866" />
 
 
 **Never miss a critical YouTube mention again.** SentryScript is a lightweight, portable Windows desktop tool that automates keyword tracking across YouTube channels by scanning the subtitles of the latest uploads. 
