@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👁️ SentryScript: Automated YouTube Mention Tracker
+SentryScript: Automated YouTube Mention Tracker
 
 
 
