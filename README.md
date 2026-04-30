@@ -31,7 +31,7 @@ I hate forced signups just to test a tool. You can try the fully functional beta
 * 🔄 **Background Automation:** Set it to scan every 12, 24, or 48 hours. It works silently in the background.
 * 🌍 **Smart Multi-Language:** Your search term is auto-translated into 11 languages. If subtitles exist in those languages, they are scanned automatically.
 * 💾 **Privacy-First & Lightweight:** Subtitle contents are processed entirely in RAM and never saved to your disk. Only non-content metadata (Date, Channel, Title, Clickable Timestamp) is stored locally.
-* ⚡ **Zero Friction:** Single-Machine Portable `.exe` file. No installation, no registries, no bloatware.
+* ⚡ **Zero Friction:** Portable `.exe` file. No installation, no registries, no bloatware.
 
 ## 🛠️ How It Works
 1. **Target:** Add the YouTube channel URLs you want to monitor.
