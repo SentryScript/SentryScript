@@ -44,6 +44,6 @@ I hate forced signups just to test a tool. You can try the fully functional beta
 ## 🛡️ Indie Dev Note & Security (Please Read)
 
 To keep this tool affordable and accessible, this version skips costly Windows digital certificates ($400+/year). Because of this, **Windows SmartScreen may flag it as an "Unknown Publisher."** * **To run it:** Simply click `More Info` -> `Run Anyway`.
-* **100% Safe:** SentryScript is completely clean. View the zero-detection **[[VirusTotal Report Here](https://www.virustotal.com/gui/file/4cc5e184fc1fc2720df5ae113ce7a6c545da1318c0d79aeba114430e3dc8a3cf)]**.
+* **100% Safe:** SentryScript is completely clean. View the zero-detection **[[VirusTotal Report Here](https://www.virustotal.com/gui/file/819afcf44cbc90b3740ef5a196ebd15f43138a2273c28cce85477b2cc8720ee7)]**.
 
 *Disclaimer: This software leverages the open-source `yt-dlp` framework for YouTube integration. It only processes videos with available subtitle files (auto-generated or uploaded) and does not support live streams or restricted content. Continuous access relies entirely on third-party yt-dlp updates.*
